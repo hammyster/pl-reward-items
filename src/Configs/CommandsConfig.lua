@@ -24,7 +24,4 @@ REWARD_ITEMS = { {Class = 0, ItemSection = 1, ItemIndex = 0, Level = 15, Luck = 
 -- Coded by /hammyster! Command reward in lua;
 -- https://github.com/hammyster
 -- Copyright © hammy 2019
--- Licensed under a MIT license
--- Read the terms of the license here
--- https://github.com/Roshly/AyyHook-Loader/blob/master/LICENSE
 -----------------------------------------------------
