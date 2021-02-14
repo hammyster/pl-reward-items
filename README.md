@@ -3,5 +3,5 @@
 
 # SQL & Plugin Setup
  <li>Enter your SQL (Or whatever tool you use for SQL management) and navigate to MEMB_INFO</li>
- <li>Add a new column with a <code>varchar</code> value with a limit of <code>20</code></li>
- <li>Configure the files <code>Configs/Configs.lua</code> and <code>CommandsConfig.lua</a> based on your MuServer.</li>
+ <li>Add a new column with a <code>varchar</code> value with a limit of <code>20</code> named <code>promotion</code></li>
+ <li>Configure um banco de dados no <code>scr/Commands/Promotion.lua</code> baseado no seu MuServer.</li>
