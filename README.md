@@ -6,4 +6,4 @@
  <li>Add a new column with a <code>varchar</code> value with a limit of <code>20</code></li>
  <li>Configure the files <code>Configs/Configs.lua</code> and <code>CommandsConfig.lua</code> based on your MuServer.</li>
 
-:white_check_mark:
+:x:
